@@ -1,7 +1,7 @@
 # Function-Approximation-Demo
 This repo Contains Python code implementing a neural network with the DeepXDE library.
 The model is used to approximate the Harmonic-Oscilator function
-<pre> ```math m\ddot{x} + \mu\dot{x} + kx = 0 ``` </pre>
+<pre> mẍ + μẋ + kx = 0 </pre>
 ## Architecture
 A Feedforward Neural network is used. The network has 1 input node, 1 output node and 3 hidden layers with 50 nodes per layer.
 
